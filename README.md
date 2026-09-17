@@ -24,9 +24,6 @@
   <img height="180em" src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thedarik&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
