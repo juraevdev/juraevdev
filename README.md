@@ -1,33 +1,40 @@
+# Hi, I'm Davlat 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iilxomovic_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davlat-juraev/) 
+### Python Backend Developer | Django, FastAPI & AI Systems
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juraevdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=juraevdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juraevdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build custom backend systems, business automation tools,
+Telegram bots and AI-powered applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=juraevdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### What I build
 
+- Backend systems with Django / DRF / FastAPI
+- Business automation and internal platforms
+- Telegram bots and integrations
+- AI-powered applications
+- REST APIs and real-time systems
 
+### Featured Projects
 
+#### 🚛 Caravan Dispatcher
+Telegram-based logistics platform for finding and matching cargo.
 
+**Stack:** Django, DRF, PostgreSQL, Redis, Celery, Telegram
 
----
+[View Project] [Case Study]
 
-## 📈 GitHub Performance
+#### 🌱 E-Makon
+...
 
-<div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-</div>
+#### 💬 Communication App
+...
 
+### Tech Stack
 
----
+Python • Django • DRF • FastAPI • PostgreSQL • Redis
+Celery • Docker • REST API • WebSockets • Git
 
----
-[![](https://visitcount.itsvg.in/api?id=juraevdev&icon=0&color=0)](https://visitcount.itsvg.in)
+### Let's work together
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📧 email@example.com
+🔗 LinkedIn
+🌐 Portfolio
