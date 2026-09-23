@@ -288,7 +288,7 @@ Areas I work with include:
 
 <!-- EDIT: Add specific AI project links here -->
 
-<a href="https://github.com/clarity">
+<a href="https://github.com/juraevdev/clarity">
   <img src="https://img.shields.io/badge/Explore_AI_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
