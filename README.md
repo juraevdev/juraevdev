@@ -9,13 +9,13 @@ Telegram integrations and AI-powered applications.
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/davlat-juraev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:juraevdevpy@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -125,12 +125,6 @@ A selection of projects I've worked on.
 
 ## 🚛 Caravan Dispatcher
 
-<div align="center">
-
-<!-- EDIT: Add project screenshot -->
-<img src="./assets/caravan-dispatcher.png" width="850" alt="Caravan Dispatcher">
-
-</div>
 
 ### Telegram-based logistics platform
 
@@ -171,7 +165,7 @@ cargo discovery and communication between users.
 </a>
 
 <!-- EDIT: Add case study if you create one -->
-<a href="YOUR_CASE_STUDY_URL">
+<a href="https://github.com/OQdevpy/caravan_bot">
   <img src="https://img.shields.io/badge/Case_Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 
@@ -229,12 +223,6 @@ task management and operational control.
 
 ## 💬 Communication App
 
-<div align="center">
-
-<!-- EDIT: Add 1–2 screenshots -->
-<img src="./assets/communication-app.png" width="850" alt="Communication App">
-
-</div>
 
 ### Real-time communication platform
 
@@ -300,7 +288,7 @@ Areas I work with include:
 
 <!-- EDIT: Add specific AI project links here -->
 
-<a href="YOUR_AI_PROJECT_URL">
+<a href="https://github.com/clarity">
   <img src="https://img.shields.io/badge/Explore_AI_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
