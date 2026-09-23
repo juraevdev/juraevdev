@@ -393,15 +393,18 @@ backend development or custom software solutions.
 
 # 📊 GitHub Activity
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=juraevdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juraevdev&show_icons=true&hide_border=true&theme=transparent" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraevdev&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juraevdev&layout=compact&hide_border=true&theme=transparent" height="170" />
 
 </div>
 
 ---
+
+
 
 # 📈 Contribution Activity
 
