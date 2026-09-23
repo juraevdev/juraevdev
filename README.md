@@ -160,7 +160,7 @@ cargo discovery and communication between users.
 
 <br>
 
-<a href="https://github.com/juraevdev/caravan_bot">
+<a href="https://github.com/OQdevpy/caravan_bot">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
